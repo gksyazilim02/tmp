@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JET FILE TRANSFER - Gelişmiş Sunucu Paneli</title>
+    <style>
+        :root {
+            --primary: #0f172a;
+            --primary-accent: #2563eb;
+            --pardus-orange: #f97316;
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #334155;
+            --text-muted: #64748b;
+            --border-color: #e2e8f0;
+            --code-bg: #1e293b;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 0;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            border-bottom: 4px solid var(--pardus-orange);
+        }
+
+        .header h1 {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            letter-spacing: -0.5px;
+        }
+
+        .header h1 span {
+            color: var(--pardus-orange);
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            color: #94a3b8;
+            max-width: 750px;
+            margin: 0 auto 20px auto;
+        }
+
+        .badge-container {
+            margin-top: 15px;
+        }
+
+        .badge {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.1);
+            color: #e2e8f0;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            margin: 0 4px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 28px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+        }
+
+        .card h2 {
+            font-size: 1.4rem;
+            color: var(--primary);
+            margin-bottom: 16px;
+            border-left: 4px solid var(--primary-accent);
+            padding-left: 12px;
+            display: flex;
+            align-items: center;
+        }
+
+        .card h2.orange-accent {
+            border-left-color: var(--pardus-orange);
+        }
+
+        p {
+            margin-bottom: 14px;
+            color: var(--text-main);
+        }
+
+        ul {
+            list-style: none;
+            margin-bottom: 15px;
+        }
+
+        li {
+            position: relative;
+            padding-left: 24px;
+            margin-bottom: 10px;
+            color: var(--text-main);
+        }
+
+        li::before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--primary-accent);
+            font-weight: bold;
+        }
+
+        .features-grid {
+            display: table;
+            width: 100%;
+            margin-top: 15px;
+            border-collapse: separate;
+            border-spacing: 12px;
+        }
+
+        .feature-card {
+            display: table-cell;
+            width: 50%;
+            background: #f1f5f9;
+            padding: 18px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            vertical-align: top;
+        }
+
+        .feature-card h3 {
+            font-size: 1.1rem;
+            color: var(--primary);
+            margin-bottom: 8px;
+        }
+
+        .feature-card p {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            margin-bottom: 0;
+        }
+
+        code {
+            font-family: "Courier New", Courier, monospace;
+            background: #f1f5f9;
+            color: #0f172a;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+
+        .code-block {
+            background: var(--code-bg);
+            color: #f8fafc;
+            padding: 16px;
+            border-radius: 8px;
+            font-family: "Courier New", Courier, monospace;
+            font-size: 0.9rem;
+            overflow-x: auto;
+            margin: 15px 0;
+            line-height: 1.5;
+        }
+
+        .code-block .comment { color: #64748b; }
+        .code-block .keyword { color: #38bdf8; }
+
+        .tech-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        .tech-table th, .tech-table td {
+            border: 1px solid var(--border-color);
+            padding: 10px 14px;
+            text-align: left;
+        }
+
+        .tech-table th {
+            background-color: #f1f5f9;
+            color: var(--primary);
+        }
+
+        .btn-group {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: var(--primary-accent);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            margin: 5px;
+        }
+
+        .btn-orange {
+            background-color: var(--pardus-orange);
+        }
+
+        .footer {
+            text-align: center;
+            padding: 25px;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            border-top: 1px solid var(--border-color);
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>🖥️ <span>JET</span> File Transfer</h1>
+        <p>Gelişmiş Sunucu Paneli — Akıllı telefonlar ile Pardus işletim sistemi arasında hızlı, güvenli ve kablosuz veri aktarımı sağlayan C++ & Qt6 tabanlı masaüstü uygulaması.</p>
+        <div class="badge-container">
+            <span class="badge">C++17</span>
+            <span class="badge">Qt 6</span>
+            <span class="badge">CMake</span>
+            <span class="badge">Open Source</span>
+        </div>
+    </div>
+
+    <div class="container">
+        
+        <!-- HAKKINDA -->
+        <div class="card">
+            <h2>Proje Hakkında</h2>
+            <p><strong>JET File Transfer</strong>, yerel ağ (Wi-Fi/Ethernet) üzerindeki Android akıllı telefonlar ile bilgisayarlar (özellikle Pardus işletim sistemi) arasında yüksek hızda, güvenli ve kablosuz dosya ile metin aktarımı sağlayan Qt tabanlı bir masaüstü sunucu uygulamasıdır.</p>
+            <p>Android istemcisi aracılığıyla mobil cihazınızdan PARDUS işletim sisteminize veri kopyalayabilir, metin ve dosyalar gönderebilirsiniz.</p>
+        </div>
+
+        <!-- ÖZELLİKLER -->
+        <div class="card">
+            <h2 class="orange-accent">✨ Öne Çıkan Özellikler</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <h3>Gelişmiş Metin Editörü (QTextEdit)</h3>
+                    <p>Telefondan gelen pano (clipboard) içeriklerini kırpılmadan tam haliyle görebilir, düzenleyebilir ve tek butonla bilgisayar panosuna aktarabilirsiniz.</p>
+                </div>
+                <div class="feature-card">
+                    <h3>Akıllı Dosya Yöneticisi</h3>
+                    <p>Gelen dosyalar tamamlandığında günlüklerin en üstünde görünür. Dosyaya çift tıklayarak varsayılan uygulama ile doğrudan açabilirsiniz.</p>
+                </div>
+            </div>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <h3>Sanal Ağ Filtreleme</h3>
+                    <p>VirtualBox, VMware ve WSL gibi sanal adaptörleri otomatik filtreleyerek gerçek yerel IP adresinizi sunar.</p>
+                </div>
+                <div class="feature-card">
+                    <h3>Anlık İlerleme Çubuğu</h3>
+                    <p>Dosya aktarım yüzdesini ve durumunu canlı olarak sunucu panelinden takip edebilirsiniz.</p>
+                </div>
+            </div>
+        </div>
+
+    
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a3719a75dcb9fea6',t:'MTc4ODc0MTAxMA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"9b88ed57cdce454ea5fb1dbd2a2f0357","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
