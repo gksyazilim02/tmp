@@ -1,6 +1,6 @@
-AirShare GKS SON KULLANICI LİSANS SÖZLEŞMESİ, KULLANIM KOŞULLARI VE SORUMLULUK HÜKÜMLERİ
+# AirShare GKS SON KULLANICI LİSANS SÖZLEŞMESİ, KULLANIM KOŞULLARI VE SORUMLULUK HÜKÜMLERİ
 
-ÖNEMLİ BİLGİLENDİRME
+## ÖNEMLİ BİLGİLENDİRME
 
 AirShare GKS yazılımını ("Yazılım") yüklemeden, kurmadan, kopyalamadan veya kullanmadan önce bu Son Kullanıcı Lisans Sözleşmesi'ni ("Sözleşme") dikkatlice okuyunuz.
 
@@ -10,311 +10,127 @@ Bu Sözleşme'nin herhangi bir hükmünü kabul etmiyorsanız Yazılımı kurmay
 
 Bu Sözleşme, tüketicilere ve diğer kullanıcılara kanunlarla tanınan ve önceden bertaraf edilmesi mümkün olmayan hakları ortadan kaldırmaz veya sınırlandırmaz.
 
-1. TARAFLAR VE YAZILIM
+# 1. TARAFLAR VE YAZILIM
 
-1.1. AirShare GKS ("Yazılım"), işbu Sözleşme kapsamında "Geliştirici" olarak anılan bağımsız yazılım geliştiricisi/ekibi tarafından sunulan ve dağıtılan bir yazılımdır.
+**1.1.** AirShare GKS ("Yazılım"), işbu Sözleşme kapsamında "Geliştirici" olarak anılan bağımsız yazılım geliştiricisi/ekibi tarafından sunulan ve dağıtılan bir yazılımdır.
 
-1.2. Bu Sözleşmede;
+**1.2.** Bu Sözleşmede;
 
-"Geliştirici": GKS Yazılım Ekibi,
-"Yazılım": AirShare GKS'nin Android, Windows ve/veya desteklenen diğer sürümleri ile bunlara ilişkin güncellemeleri,
-"Kullanıcı": Yazılımı indiren, kuran veya kullanan gerçek veya tüzel kişiyi,
-"Cihaz": Yazılımın kurulduğu bilgisayar, Android cihaz veya desteklenen diğer cihazları
+* **"Geliştirici":** GKS Yazılım Ekibi,
+* **"Yazılım":** AirShare GKS'nin Android, Windows ve/veya desteklenen diğer sürümleri ile bunlara ilişkin güncellemeleri,
+* **"Kullanıcı":** Yazılımı indiren, kuran veya kullanan gerçek veya tüzel kişiyi,
+* **"Cihaz":** Yazılımın kurulduğu bilgisayar, Android cihaz, akıllı tahta veya desteklenen diğer cihazları
 
 ifade eder.
 
-1.3. Yazılım, aksi ayrıca belirtilmediği sürece ücretsiz olarak sunulmaktadır. Yazılımın ücretsiz olması, Kullanıcıya Yazılım üzerindeki fikrî ve sınai hakların devredildiği anlamına gelmez.
+**1.3.** Yazılım, aksi ayrıca belirtilmediği sürece ücretsiz olarak sunulmaktadır. Yazılımın ücretsiz olması, Kullanıcıya Yazılım üzerindeki fikrî ve sınai hakların devredildiği anlamına gelmez.
 
-2. LİSANSIN VERİLMESİ
+# 2. LİSANSIN VERİLMESİ
 
-2.1. Geliştirici, Kullanıcıya Yazılımı bu Sözleşme kapsamında kullanmak üzere kişisel, sınırlı, münhasır olmayan, devredilemez ve süreli olmayan bir kullanım lisansı vermektedir.
+**2.1.** Geliştirici, Kullanıcıya Yazılımı bu Sözleşme kapsamında kullanmak üzere kişisel, sınırlı, münhasır olmayan, devredilemez ve süreli olmayan bir kullanım lisansı vermektedir.
 
-2.2. Bu lisans, Yazılımın mülkiyetini veya fikrî ve sınai haklarını Kullanıcıya devretmez.
+**2.2.** Bu lisans, Yazılımın mülkiyetini veya fikrî ve sınai haklarını Kullanıcıya devretmez.
 
-2.3. Kullanıcı, Yazılımı yasal amaçlarla ve bu Sözleşmeye uygun şekilde kullanabilir.
+**2.3.** Kullanıcı, Yazılımı yasal amaçlarla ve bu Sözleşmeye uygun şekilde kullanabilir.
 
-2.4. Yazılımın birden fazla cihazda kullanılması, ilgili cihazların Kullanıcıya ait olması veya Kullanıcının bu cihazları kullanmaya yetkili olması şartıyla mümkündür.
+**2.4.** Yazılımın birden fazla cihazda kullanılması, ilgili cihazların Kullanıcıya ait olması veya Kullanıcının bu cihazları kullanmaya yetkili olması şartıyla mümkündür.
 
-3. FİKRÎ VE SINAÎ MÜLKİYET HAKLARI
+# 3. FİKRÎ VE SINAÎ MÜLKİYET HAKLARI
 
-3.1. Yazılımın kaynak kodları, nesne kodları, tasarımı, arayüzü, grafik unsurları, logoları, metinleri, teknik yapısı ve Yazılıma ilişkin diğer unsurlar üzerindeki haklar, ilgili mevzuat uyarınca Geliştiriciye veya ilgili hak sahiplerine aittir.
+**3.1.** Yazılımın kaynak kodları, nesne kodları, tasarımı, arayüzü, grafik unsurları, logoları, metinleri, teknik yapısı ve Yazılıma ilişkin diğer unsurlar üzerindeki haklar, ilgili mevzuat uyarınca Geliştiriciye veya ilgili hak sahiplerine aittir.
 
-3.2. Bu Sözleşme, Kullanıcıya Yazılımın fikrî veya sınai mülkiyet haklarını devretmez.
+**3.2.** Bu Sözleşme, Kullanıcıya Yazılımın fikrî veya sınai mülkiyet haklarını devretmez.
 
-3.3. Kullanıcı, yürürlükteki mevzuatın izin verdiği zorunlu haller dışında Yazılımı;
+**3.3.** Kullanıcı, yürürlükteki mevzuatın izin verdiği zorunlu haller dışında Yazılımı;
 
-kopyalayamaz,
-kaynak koda dönüştüremez,
-tersine mühendislik yapamaz,
-kaynak kodunu elde etmeye çalışamaz,
-değiştiremez,
-uyarlayamaz,
-türev yazılım oluşturamaz,
-kiralayamaz,
-satamaz,
-lisanslayamaz,
-yeniden dağıtamaz.
+* kopyalayamaz,
+* kaynak koda dönüştüremez,
+* tersine mühendislik yapamaz,
+* kaynak kodunu elde etmeye çalışamaz,
+* değiştiremez,
+* uyarlayamaz,
+* türev yazılım oluşturamaz,
+* kiralayamaz,
+* satamaz,
+* lisanslayamaz,
+* yeniden dağıtamaz.
 
-3.4. Kanun tarafından açıkça izin verilen kullanım ve işlemler bu hükmün dışındadır.
+**3.4.** Kanun tarafından açıkça izin verilen kullanım ve işlemler bu hükmün dışındadır.
 
-3.5. Yazılım üzerindeki telif ve hak sahipliği bildirimleri kaldırılamaz veya değiştirilemez.
+**3.5.** Yazılım üzerindeki telif ve hak sahipliği bildirimleri kaldırılamaz veya değiştirilemez.
 
-Bilgisayar programları Türkiye'de 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında korunmaktadır. Koruma için ayrıca zorunlu bir tescil şartı bulunmamaktadır.
+# 4. YAZILIMIN KULLANIM AMACI
 
-4. YAZILIMIN KULLANIM AMACI
+**4.1.** AirShare GKS, insanların bilgisayar, Android cihaz, akıllı tahta ve desteklenen diğer cihazlar arasında ekran paylaşımı ve cihazlar arası iletişimi kolay, pratik ve erişilebilir şekilde gerçekleştirebilmesi amacıyla geliştirilmiştir. Yazılımın temel amacı; eğitim, öğretim, sunum, teknik destek, uzaktan yardım, iş birliği, kişisel kullanım ve benzeri hukuka uygun ve iyi niyetli amaçlarla ekran, ses ve dosya paylaşımını kolaylaştırmaktır.
 
-4.1. AirShare GKS, insanların bilgisayar, Android cihaz ve desteklenen diğer cihazlar arasında ekran paylaşımı ve cihazlar arası iletişimi kolay, pratik ve erişilebilir şekilde gerçekleştirebilmesi amacıyla geliştirilmiştir. Yazılımın temel amacı; eğitim, öğretim, sunum, teknik destek, uzaktan yardım, iş birliği, kişisel kullanım ve benzeri hukuka uygun ve iyi niyetli amaçlarla ekran, ses ve dosya paylaşımını kolaylaştırmaktır.
+**4.2.** AirShare GKS, kişilerin birbirlerinin ekranlarını, seslerini veya dosyalarını izinsiz olarak takip etmesi, elde etmesi, kaydetmesi veya başka amaçlarla kullanması için geliştirilmemiştir. Yazılımın amacı, yetkili kullanıcılar arasında gerçekleştirilen meşru ve izinli cihazlar arası paylaşımı kolaylaştırmaktır.
 
-4.2. AirShare GKS, kişilerin birbirlerinin ekranlarını, seslerini veya dosyalarını izinsiz olarak takip etmesi, elde etmesi, kaydetmesi veya başka amaçlarla kullanması için geliştirilmemiştir. Yazılımın amacı, yetkili kullanıcılar arasında gerçekleştirilen meşru ve izinli cihazlar arası paylaşımı kolaylaştırmaktır.
+**4.3.** Kullanıcı, Yazılımı yalnızca hukuka uygun amaçlarla ve gerekli izinleri alarak kullanacağını kabul eder.
 
-4.3. Kullanıcı, Yazılımı yalnızca hukuka uygun amaçlarla ve gerekli izinleri alarak kullanacağını kabul eder.
+**4.4.** Kullanıcı özellikle;
 
-4.4. Kullanıcı özellikle;
+* başka kişilerin cihazlarına izinsiz erişemez,
+* başka kişilerin ekranlarını veya verilerini izinsiz görüntüleyemez,
+* başka kişilerin seslerini veya görüntülerini hukuka aykırı şekilde kaydedemez,
+* başka kişilere ait dosyaları izinsiz alamaz, kopyalayamaz veya aktaramaz,
+* kişisel verileri hukuka aykırı şekilde toplayamaz, kaydedemez veya paylaşamaz,
+* Yazılımı başka bir bilişim sistemine yetkisiz erişim amacıyla kullanamaz,
+* Yazılımı bir saldırı, kötü amaçlı yazılım, yetkisiz izleme veya veri ele geçirme aracı olarak kullanamaz.
 
-başka kişilerin cihazlarına izinsiz erişemez,
-başka kişilerin ekranlarını veya verilerini izinsiz görüntüleyemez,
-başka kişilerin seslerini veya görüntülerini hukuka aykırı şekilde kaydedemez,
-başka kişilere ait dosyaları izinsiz alamaz, kopyalayamaz veya aktaramaz,
-kişisel verileri hukuka aykırı şekilde toplayamaz, kaydedemez veya paylaşamaz,
-Yazılımı başka bir bilişim sistemine yetkisiz erişim amacıyla kullanamaz,
-Yazılımı bir saldırı, kötü amaçlı yazılım, yetkisiz izleme veya veri ele geçirme aracı olarak kullanamaz.
+**4.5.** Kullanıcı, Yazılım aracılığıyla gerçekleştirdiği işlemlerden ve bu işlemlerin hukuka uygunluğundan kendisi sorumludur.
 
-4.5. Kullanıcı, Yazılım aracılığıyla gerçekleştirdiği işlemlerden ve bu işlemlerin hukuka uygunluğundan kendisi sorumludur.
+**4.6.** Özellikle ekran, kamera, mikrofon, ses veya dosya aktarımı sırasında üçüncü kişilere ait içeriklerin kullanılması halinde gerekli izinlerin alınması Kullanıcının sorumluluğundadır.
 
-4.6. Özellikle ekran, kamera, mikrofon, ses veya dosya aktarımı sırasında üçüncü kişilere ait içeriklerin kullanılması halinde gerekli izinlerin alınması Kullanıcının sorumluluğundadır.
-5. YETKİLİ ERİŞİM VE RIZA
+**4.7.** Yazılımın bir okul, eğitim kurumu, kamu kurumu, işletme veya başka bir kuruluşa ait bilgisayar, akıllı tahta ya da başka bir cihaza kurulmuş olması; bu cihaz üzerinden gerçekleştirilen işlemlerin, paylaşılan içeriklerin veya kullanıcıların eylemlerinin Geliştirici tarafından gerçekleştirildiği, yönlendirildiği, onaylandığı veya bilindiği anlamına gelmez.
 
-5.1. Kullanıcı, Yazılımı yalnızca erişim hakkına sahip olduğu cihazlarda ve sistemlerde kullanacağını kabul eder.
+**4.8.** Yazılım aracılığıyla bir bilgisayarın, akıllı tahtanın veya başka bir cihazın ekranına yansıtılan, gönderilen, görüntülenen, aktarılan veya paylaşılan içeriklerin niteliği ve hukuka uygunluğu, ilgili içeriği paylaşan, gönderen veya görüntüleyen Kullanıcının sorumluluğundadır.
 
-5.2. Başka bir kişinin cihazına, ekranına, mikrofonuna, kamerasına, dosyalarına veya iletişimlerine erişim sağlanması gerekiyorsa, Kullanıcı gerekli hukuki izin ve rızaların alınmasından sorumludur.
+**4.9.** Yazılımın teknik olarak belirli bir içeriğin başka bir cihazın ekranında görüntülenmesine veya aktarılmasına imkân sağlaması, Geliştiricinin söz konusu içeriği hazırladığı, seçtiği, gönderdiği, onayladığı veya içeriğin hukuka uygunluğunu garanti ettiği anlamına gelmez.
 
-5.3. Bir kişinin cihazına Yazılımın kurulmuş olması, o kişinin bütün verilerine erişim veya bu verileri işleme konusunda otomatik olarak sınırsız bir izin verildiği anlamına gelmez.
+**4.10.** Kullanıcının Yazılımı kullanarak başka bir cihazın ekranına yansıttığı içeriklerden doğabilecek hukuki, idari veya cezai sorumluluk, yürürlükteki mevzuat çerçevesinde ilgili eylemi gerçekleştiren veya içeriği paylaşan kişiye aittir. Bu hüküm, Geliştiricinin kanunen bertaraf edilmesi mümkün olmayan sorumluluklarını ortadan kaldıracak şekilde yorumlanamaz.
 
-5.4. Kullanıcı, erişim yetkisinin kapsamını ve süresini kendisi belirlemeli ve gerektiğinde erişimi sonlandırmalıdır.
+# 5. YETKİLİ ERİŞİM VE RIZA
 
-Bu husus özellikle önemlidir; çünkü Türk Ceza Kanunu'nda hukuka aykırı bilişim sistemi erişimi ve bilişim sistemleri arasındaki veri naklinin hukuka aykırı şekilde izlenmesine ilişkin hükümler bulunmaktadır.
+**5.1.** Kullanıcı, Yazılımı yalnızca erişim hakkına sahip olduğu cihazlarda ve sistemlerde kullanacağını kabul eder.
 
-6. EKRAN, SES VE DOSYA AKTARIMI
+**5.2.** Başka bir kişinin cihazına, ekranına, mikrofonuna, kamerasına, dosyalarına veya iletişimlerine erişim sağlanması gerekiyorsa, Kullanıcı gerekli hukuki izin ve rızaların alınmasından sorumludur.
 
-6.1. Yazılımın ekran yansıtma, ekran görüntüsü aktarımı, ses aktarımı veya dosya paylaşımı özellikleri yalnızca Kullanıcının yetkili olduğu kullanım senaryolarında kullanılmalıdır.
+**5.3.** Bir kişinin cihazına Yazılımın kurulmuş olması, o kişinin bütün verilerine erişim veya bu verileri işleme konusunda otomatik olarak sınırsız bir izin verildiği anlamına gelmez.
 
-6.2. Kullanıcı, aktarım sırasında üçüncü kişilere ait kişisel verilerin, özel hayat bilgilerinin, ticari sırların, eğitim/işyeri bilgilerinin veya diğer gizli bilgilerin aktarılabileceğinin farkındadır.
+**5.4.** Kullanıcı, erişim yetkisinin kapsamını ve süresini kendisi belirlemeli ve gerektiğinde erişimi sonlandırmalıdır.
 
-6.3. Kullanıcı, bu tür içeriklerin hukuka uygun şekilde aktarılmasından, muhafaza edilmesinden ve gerektiğinde silinmesinden sorumludur.
+**5.5.** Bir akıllı tahta veya başka bir ortak kullanım cihazına Yazılımın kurulmuş olması, cihazı kullanan veya cihaza erişen bütün kişilere sınırsız içerik paylaşma veya erişim yetkisi verildiği anlamına gelmez.
 
-6.4. Geliştirici, Kullanıcının başka kişilere ait içerikleri hukuka aykırı şekilde elde etmesine, kaydetmesine veya paylaşmasına izin vermemektedir.
+# 6. EKRAN, SES VE DOSYA AKTARIMI
 
-6.5. Yazılımın teknik olarak bir veriyi aktarabilmesi, söz konusu verinin hukuken aktarılabileceği anlamına gelmez.
+**6.1.** Yazılımın ekran yansıtma, ekran görüntüsü aktarımı, ses aktarımı veya dosya paylaşımı özellikleri yalnızca Kullanıcının yetkili olduğu kullanım senaryolarında kullanılmalıdır.
 
-7. KİŞİSEL VERİLER VE KVKK
+**6.2.** Kullanıcı, aktarım sırasında üçüncü kişilere ait kişisel verilerin, özel hayat bilgilerinin, ticari sırların, eğitim/işyeri bilgilerinin veya diğer gizli bilgilerin aktarılabileceğinin farkındadır.
 
-7.1. Yazılımın belirli işlevleri cihaz adı, IP adresi, ağ bilgileri, dosya bilgileri, ekran görüntüsü, ses, bağlantı bilgileri veya benzeri verilerin cihazlar arasında aktarılmasına neden olabilir.
+**6.3.** Kullanıcı, bu tür içeriklerin hukuka uygun şekilde aktarılmasından, muhafaza edilmesinden ve gerektiğinde silinmesinden sorumludur.
 
-7.2. Geliştiricinin hangi kişisel verileri topladığı, hangi amaçlarla işlediği, hukuki sebepleri, aktarım yapılan kişi veya kuruluşlar, saklama süreleri ve ilgili kişilerin hakları ayrıca AirShare GKS Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni / Gizlilik Politikası içerisinde açıklanır.
+**6.4.** Geliştirici, Kullanıcının başka kişilere ait içerikleri hukuka aykırı şekilde elde etmesine, kaydetmesine veya paylaşmasına izin vermemektedir.
 
-7.3. Geliştirici tarafından kişisel veri işlenmesi söz konusu olduğunda, 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili ikincil mevzuat uygulanır.
+**6.5.** Yazılımın teknik olarak bir veriyi aktarabilmesi, söz konusu verinin hukuken aktarılabileceği anlamına gelmez.
 
-7.4. Kullanıcının cihazında yalnızca yerel olarak gerçekleşen ve Geliştiriciye aktarılmayan veri işlemleri bakımından, ilgili veri işleme faaliyetinin niteliğine göre Kullanıcının kendi hukuki sorumluluğu doğabilir.
+**6.6.** Ekran yansıtma özelliğinin kullanıldığı cihazlarda, ekrana yansıtılan veya görüntülenen içeriğin seçilmesi ve gönderilmesi Kullanıcının gerçekleştirdiği bir işlemdir. Geliştirici, Kullanıcı tarafından seçilen veya gönderilen içeriğin içeriğinden bağımsız olarak sorumlu tutulamaz; ancak kanunen kendisine yüklenen ve önceden sınırlandırılması mümkün olmayan sorumluluklar saklıdır.
 
-7.5. Kullanıcı, Yazılım aracılığıyla başka kişilere ait kişisel verileri elde etmesi veya işlemesi halinde, kendisi açısından uygulanabilir KVKK ve diğer mevzuat hükümlerine uymakla yükümlüdür.
+# 7. KİŞİSEL VERİLER VE KVKK
 
-7.6. Geliştirici tarafından kişisel veri işleniyorsa, gerekli aydınlatma yükümlülüğü ayrıca yerine getirilir.
+**7.1.** Yazılımın belirli işlevleri cihaz adı, IP adresi, ağ bilgileri, dosya bilgileri, ekran görüntüsü, ses, bağlantı bilgileri veya benzeri verilerin cihazlar arasında aktarılmasına neden olabilir.
 
-7.7. Aydınlatma Metni ile açık rıza birbirinden ayrı hukuki süreçlerdir. Gerektiğinde açık rıza ayrıca ve belirli bir işleme faaliyetine yönelik olarak alınır.
+**7.2.** Geliştiricinin hangi kişisel verileri topladığı, hangi amaçlarla işlediği, hukuki sebepleri, aktarım yapılan kişi veya kuruluşlar, saklama süreleri ve ilgili kişilerin hakları ayrıca AirShare GKS Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni / Gizlilik Politikası içerisinde açıklanır.
 
-KVKK Kurumu, aydınlatma yükümlülüğünün her durumda yerine getirilmesi gerektiğini ve açık rıza ile aydınlatmanın birbirine karıştırılmaması gerektiğini açıkça belirtmektedir.
+**7.3.** Geliştirici tarafından kişisel veri işlenmesi söz konusu olduğunda, 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili ikincil mevzuat uygulanır.
 
-8. ANDROID İZİNLERİ
+**7.4.** Kullanıcının cihazında yalnızca yerel olarak gerçekleşen ve Geliştiriciye aktarılmayan veri işlemleri bakımından, ilgili veri işleme faaliyetinin niteliğine göre Kullanıcının kendi hukuki sorumluluğu doğabilir.
 
-8.1. Android sürümünde Yazılımın belirli özelliklerinin kullanılabilmesi için işletim sistemi tarafından kamera, mikrofon, dosyalar/medya, ağ veya benzeri izinler talep edilebilir.
+**7.5.** Kullanıcı, Yazılım aracılığıyla başka kişilere ait kişisel verileri elde etmesi veya işlemesi halinde, kendisi açısından uygulanabilir KVKK ve diğer mevzuat hükümlerine uymakla yükümlüdür.
 
-8.2. Kullanıcı, Android işletim sisteminin izin ekranları üzerinden hangi izinleri vereceğine karar verebilir.
+**7.6.** Geliştirici tarafından kişisel veri işleniyorsa, gerekli aydınlatma yükümlülüğü ayrıca yerine getirilir.
 
-8.3. İzinlerin verilmemesi halinde ilgili Yazılım özelliğinin çalışmaması veya sınırlı çalışması mümkündür.
+**7.7.** Aydınlatma Metni ile açık rıza birbirinden ayrı hukuki süreçlerdir. Gerektiğinde açık rıza ayrıca ve belirli bir işleme faaliyetine yönelik olarak alınır.
 
-8.4. Kullanıcı, Android cihazında Yazılım tarafından talep edilen izinleri cihazının işletim sistemi ayarlarından inceleyebilir ve mevzuatın ve işletim sisteminin izin verdiği ölçüde değiştirebilir.
+# 8. ANDROID İZİNLERİ
 
-8.5. Geliştirici, Yazılımın çalışması için gerekli olmayan izinleri talep etmemeye özen gösterir.
-
-9. WINDOWS VE DİĞER BİLGİSAYAR SÜRÜMLERİ
-
-9.1. Kullanıcı, Yazılımı yalnızca güvenilir kaynaklardan edinmelidir.
-
-9.2. Kullanıcı, Yazılımı kurmadan önce işletim sistemi, güvenlik yazılımı, güvenlik duvarı ve ağ yapılandırmasının uygunluğunu kontrol etmekten sorumludur.
-
-9.3. Yazılımın çalışabilmesi için güvenlik duvarında veya ağ üzerinde bağlantı izni gerekebilir.
-
-9.4. Kullanıcı, güvenlik duvarı veya ağ üzerinde yaptığı değişikliklerin güvenliğinden kendisi sorumludur.
-
-9.5. Kullanıcı, Yazılımın iletişim kurduğu cihazların ve ağların güvenliğini sağlamalıdır.
-
-10. YAZILIMIN GÜVENLİK SINIRLARI
-
-10.1. Geliştirici, Yazılımın her türlü donanım, işletim sistemi, ağ, güvenlik yazılımı veya üçüncü taraf yazılımla tamamen uyumlu çalışacağını garanti etmez.
-
-10.2. Ağ üzerinden gerçekleştirilen veri aktarımının güvenliği; kullanılan Wi-Fi ağı, modem/router, işletim sistemi, güvenlik duvarı ve diğer teknik bileşenlere de bağlıdır.
-
-10.3. Kullanıcının açık veya şifresiz Wi-Fi ağlarında Yazılımı kullanması halinde, ağ üzerindeki diğer kişilerin erişim imkanları ayrıca değerlendirilmelidir.
-
-10.4. Kullanıcı, özellikle hassas veya gizli verilerin aktarımı sırasında güvenli ve yetkilendirilmiş ağları tercih etmelidir.
-
-10.5. Yazılımın kullanılması, cihazın veya ağın mutlak şekilde siber saldırılara karşı güvenli olduğu anlamına gelmez.
-
-11. GARANTİ VE HİZMETİN SUNULMASI
-
-11.1. Yazılım, ücretsiz olarak ve mevcut haliyle ("OLDUĞU GİBİ") sunulmaktadır.
-
-11.2. Geliştirici, kanunen garanti edilmesi zorunlu hususlar saklı kalmak üzere, Yazılımın;
-
-kesintisiz,
-hatasız,
-tamamen güvenli,
-belirli bir amaca sürekli olarak uygun,
-tüm cihazlarda çalışır,
-tüm işletim sistemi sürümleriyle uyumlu
-
-olacağını garanti etmez.
-
-11.3. Yazılımın bazı özellikleri işletim sistemi güncellemeleri, donanım farklılıkları, ağ koşulları, güvenlik yazılımları veya üçüncü taraf teknolojiler nedeniyle çalışmayabilir veya kısıtlanabilir.
-
-11.4. Geliştirici, güvenlik veya uyumluluk gerekçeleriyle Yazılımın belirli sürümlerini güncelleyebilir, değiştirebilir, sınırlandırabilir veya kullanımdan kaldırabilir.
-
-12. VERİ KAYBI VE YEDEKLEME
-
-12.1. Kullanıcı, önemli dosyaların uygun şekilde yedeklenmesinden kendisi sorumludur.
-
-12.2. AirShare GKS bir yedekleme hizmeti değildir.
-
-12.3. Kullanıcı, dosya aktarımı veya cihazlar arası iletişim sırasında oluşabilecek bağlantı kesintileri nedeniyle aktarımın tamamlanmayabileceğini dikkate almalıdır.
-
-12.4. Önemli verilerin tek bir cihazda veya tek bir aktarım üzerinde tutulması önerilmez.
-
-13. SORUMLULUĞUN SINIRLANDIRILMASI
-
-13.1. Geliştirici, yürürlükteki emredici mevzuatın izin verdiği azami ölçüde, Yazılımın ücretsiz olarak sunulmasının niteliği, teknik sınırlamaları ve üçüncü taraf sistemlere bağımlılığı dikkate alınarak sorumluluğunu sınırlar.
-
-13.2. Geliştirici; Kullanıcının;
-
-Yazılımı hukuka aykırı kullanmasından,
-yetkisiz erişim sağlamasından,
-üçüncü kişilerin cihaz veya verilerine izinsiz erişmesinden,
-gerekli izinleri almamasından,
-hukuka aykırı şekilde ekran, ses, kamera veya dosya kaydı/aktarımı yapmasından,
-güvenli olmayan ağları tercih etmesinden,
-cihazını veya işletim sistemini güvenli şekilde yapılandırmamasından,
-Yazılımın amacı dışında kullanılmasından
-
-kaynaklanan sonuçlardan, kanunen kendisine yüklenebilecek sorumluluklar saklı kalmak üzere sorumlu değildir.
-
-13.3. Kullanıcının kendi hukuka aykırı fiilinden doğan hukuki, idari veya cezai sorumluluğu Kullanıcıya aittir.
-
-13.4. Bununla birlikte hiçbir hüküm, Geliştiricinin kanunen bertaraf edilmesi mümkün olmayan sorumluluklarını ortadan kaldıracak şekilde yorumlanamaz.
-
-13.5. Özellikle Geliştiricinin kastı veya ağır kusurundan doğan ve kanunen önceden sınırlandırılması mümkün olmayan sorumluluklar saklıdır.
-
-13.6. Tüketicinin emredici mevzuattan doğan hakları saklıdır.
-
-Bu yaklaşım, “Geliştirici hiçbir koşulda hiçbir zarardan sorumlu değildir” şeklindeki aşırı geniş hükümden daha güvenlidir. TBK m.115 ağır kusurdan doğan sorumluluğun önceden tamamen kaldırılmasını geçersiz kabul etmektedir.
-
-14. ÜÇÜNCÜ TARAF YAZILIMLAR
-
-14.1. AirShare GKS, çalışması için üçüncü taraf kütüphaneler, açık kaynak yazılımlar, işletim sistemi bileşenleri veya başka teknolojiler kullanabilir.
-
-14.2. Bu bileşenlerin kendi lisansları bulunabilir.
-
-14.3. İlgili açık kaynak veya üçüncü taraf bileşenlerin lisansları, Yazılımın ilgili sürümüyle birlikte ayrıca sunulabilir.
-
-14.4. Üçüncü taraf hizmetlerinin çalışma koşulları, ilgili hizmet sağlayıcılarının kendi sözleşme ve politikalarına tabi olabilir.
-
-15. GÜNCELLEMELER
-
-15.1. Geliştirici, Yazılımın yeni sürümlerini yayınlayabilir.
-
-15.2. Güncellemeler hata düzeltmeleri, güvenlik iyileştirmeleri, yeni özellikler veya uyumluluk değişiklikleri içerebilir.
-
-15.3. Kullanıcının güncelleme yapmaması halinde bazı özelliklerin çalışmaması veya güvenlik açıklarının giderilmemiş olması mümkündür.
-
-15.4. Kullanıcı, mümkün olduğu ölçüde Yazılımın güncel sürümünü kullanmalıdır.
-
-16. LİSANSIN SONA ERMESİ
-
-16.1. Kullanıcı bu Sözleşmeyi istediği zaman Yazılımı cihazından kaldırarak sona erdirebilir.
-
-16.2. Kullanıcı, Sözleşmenin kullanım koşullarını esaslı şekilde ihlal ederse, Geliştirici ilgili mevzuatın izin verdiği ölçüde Kullanıcının Yazılımı kullanma lisansını sona erdirebilir.
-
-16.3. Lisansın sona ermesi halinde Kullanıcı Yazılımı kullanmayı bırakmalı ve cihazlarından kaldırmalıdır.
-
-16.4. Lisansın sona ermesi, sona ermeden önce doğmuş hukuki hak ve yükümlülükleri ortadan kaldırmaz.
-
-17. HUKUKA AYKIRI KULLANIMIN BİLDİRİLMESİ
-
-17.1. Yazılımın yetkisiz erişim, kişisel veri ihlali, özel hayatın ihlali veya başka bir hukuka aykırı amaçla kullanıldığını düşünen kişiler, mümkün olması halinde durumu Geliştiriciye bildirebilir.
-
-17.2. Geliştirici, kendisine bildirilen hukuka aykırı kullanım iddialarını kendi teknik ve hukuki imkanları çerçevesinde değerlendirebilir.
-
-17.3. Geliştiricinin Yazılım üzerindeki teknik kontrolünün bulunmadığı veya yerel cihazlar arasında gerçekleşen işlemlerde verilerin Geliştiriciye ulaşmadığı durumlarda, Geliştiricinin müdahale imkanının bulunmayabileceği kabul edilir.
-
-18. KANUNLARA UYMA YÜKÜMLÜLÜĞÜ
-
-18.1. Kullanıcı, Yazılımı kullanırken Türkiye Cumhuriyeti mevzuatı ile kullanım sırasında kendisi bakımından uygulanabilir diğer hukuk kurallarına uymakla yükümlüdür.
-
-18.2. Özellikle;
-
-kişisel verilerin korunması,
-özel hayatın gizliliği,
-haberleşmenin gizliliği,
-telif hakları,
-bilişim sistemlerinin güvenliği,
-ticari sırların korunması
-
-ile ilgili mevzuata uyulmalıdır.
-
-18.3. Kullanıcı, üçüncü kişilerin haklarını ihlal edecek şekilde Yazılımı kullanamaz.
-
-19. TÜKETİCİ HAKLARI
-
-19.1. Kullanıcının tüketici sıfatına sahip olduğu durumlarda 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve ilgili mevzuattan doğan emredici haklar saklıdır.
-
-19.2. Bu Sözleşmede bulunan hiçbir hüküm, tüketicinin kanunen sahip olduğu ve önceden sınırlandırılması mümkün olmayan haklarından feragat ettiği şeklinde yorumlanamaz.
-
-19.3. Tüketici sözleşmelerinde haksız şartlara ilişkin mevzuat hükümleri saklıdır.
-
-6502 sayılı Kanun kapsamında tüketiciyle müzakere edilmeden sözleşmeye konulan ve tüketici aleyhine dürüstlük kuralına aykırı dengesizlik oluşturan haksız şartlar kesin olarak hükümsüzdür.
-
-20. SÖZLEŞMENİN BÜTÜNLÜĞÜ VE GEÇERSİZLİK
-
-20.1. Bu Sözleşmenin herhangi bir hükmünün yetkili makam veya mahkeme tarafından geçersiz veya uygulanamaz olduğuna karar verilmesi, diğer hükümlerin geçerliliğini etkilemez.
-
-20.2. Geçersiz hüküm, mümkün olduğu ölçüde hukuken geçerli ve hükmün amacına en yakın düzenlemeyle değerlendirilir.
-
-20.3. Bu Sözleşme, Kullanıcının kanundan doğan emredici haklarını ortadan kaldıracak şekilde yorumlanamaz.
-
-21. SÖZLEŞMEDE DEĞİŞİKLİKLER
-
-21.1. Geliştirici, Yazılımın yeni sürümleriyle birlikte bu Sözleşmede değişiklik yapabilir.
-
-21.2. Esaslı değişiklikler, mümkün olduğu ölçüde Kullanıcının dikkatine sunulur.
-
-21.3. Değişikliklerin yürürlüğe girmesinden sonra Yazılımın kullanılmaya devam edilmesi, yürürlükteki mevzuatın izin verdiği ölçüde yeni hükümler bakımından kabul anlamına gelebilir.
-
-21.4. Kullanıcının değişiklikleri kabul etmemesi halinde Yazılımı kullanmayı bırakması ve cihazından kaldırması mümkündür.
-
-22. UYGULANACAK HUKUK VE YETKİ
-
-22.1. Bu Sözleşmeye, uygulanabilir olduğu ölçüde Türkiye Cumhuriyeti hukuku uygulanır.
-
-22.2. Tüketici işlemlerinden doğan uyuşmazlıklarda, tüketicinin kanunen sahip olduğu başvuru yolları, tüketici hakem heyetleri ve tüketici mahkemelerine ilişkin yetki ve görev kuralları saklıdır.
-
-22.3. Tüketici olmayan kullanıcılarla olan ilişkilerde, kanunen yetkili mahkeme ve icra dairelerine ilişkin hükümler uygulanır.
-
-22.4. Bu madde, kanunen tüketici lehine belirlenmiş yetki kurallarını ortadan kaldırmaz.
-
-23. KABUL VE YÜRÜRLÜK
-
-23.1. Kullanıcının Yazılımı kurması veya kullanması, bu Sözleşmenin emredici hukuk kurallarına aykırı olmayan hükümlerini kabul ettiği anlamına gelir.
-
-23.2. Kullanıcı, Sözleşmenin tamamını kabul etmiyorsa Yazılımı kullanmamalı ve cihazından kaldırmalıdır.
-
-23.3. Sözleşmenin kabulü, Kullanıcının kanunen sahip olduğu haklardan feragat ettiği anlamına gelmez.
-
-Sözleşme güncellemeleri bu site üzerinden yayınlanır. Değişiklere lütfen bakınız:https://github.com/gksyazilim02/tmp/blob/main/airsharegks.txt
+**8.1.** Android sürümünde Yazılımın belirli özelliklerinin kullanılabilmesi için işletim sistemi tarafından kamera, mikrofon, dosyalar/medya, ağ veya benzeri izinler talep edilebilir
