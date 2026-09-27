@@ -12,7 +12,7 @@ Bu Sözleşme, tüketicilere ve diğer kullanıcılara kanunlarla tanınan ve ö
 
 1. TARAFLAR VE YAZILIM
 
-1.1. AirShare GKS ("Yazılım"), [GKS Yazılım'ın gerçek/tüzel kişi unvanı] tarafından geliştirilen ve dağıtılan bir yazılımdır.
+1.1. AirShare GKS ("Yazılım"), işbu Sözleşme kapsamında "Geliştirici" olarak anılan bağımsız yazılım geliştiricisi/ekibi tarafından sunulan ve dağıtılan bir yazılımdır.
 
 1.2. Bu Sözleşmede;
 
@@ -316,3 +316,5 @@ ile ilgili mevzuata uyulmalıdır.
 23.2. Kullanıcı, Sözleşmenin tamamını kabul etmiyorsa Yazılımı kullanmamalı ve cihazından kaldırmalıdır.
 
 23.3. Sözleşmenin kabulü, Kullanıcının kanunen sahip olduğu haklardan feragat ettiği anlamına gelmez.
+
+Sözleşme güncellemeleri bu site üzerinden yayınlanır. Değişiklere lütfen bakınız:https://github.com/gksyazilim02/tmp/blob/main/airsharegks.txt
