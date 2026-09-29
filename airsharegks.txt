@@ -134,3 +134,4 @@ ifade eder.
 # 8. ANDROID İZİNLERİ
 
 **8.1.** Android sürümünde Yazılımın belirli özelliklerinin kullanılabilmesi için işletim sistemi tarafından kamera, mikrofon, dosyalar/medya, ağ veya benzeri izinler talep edilebilir
+# 9. Wi-fi Kullanımı : Ekran ve ses yansıtmalarında kendi cihazınızın mobil verisi kapatılarak sunucu yapılan cihaza veri paylaşımını kullanmanız önerilmektedir.
