@@ -130,6 +130,7 @@ ifade eder.
 **7.6.** Geliştirici tarafından kişisel veri işleniyorsa, gerekli aydınlatma yükümlülüğü ayrıca yerine getirilir.
 
 **7.7.** Aydınlatma Metni ile açık rıza birbirinden ayrı hukuki süreçlerdir. Gerektiğinde açık rıza ayrıca ve belirli bir işleme faaliyetine yönelik olarak alınır.
+
 **7.8.** ÖNEMLİ: Wi-fi ağını kişisel erişim noktanızdan yapmanız daha hızlı ve daha güvenli bağlantıyı sağlayacaktır.Burada önemli nokta paylaşım yapan cihazların aynı ağda olmasıdır
 
 # 8. ANDROID İZİNLERİ
