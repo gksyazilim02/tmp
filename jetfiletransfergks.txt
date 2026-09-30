@@ -1,0 +1,141 @@
+# Jet File Transfer GKS SON KULLANICI LİSANS SÖZLEŞMESİ, KULLANIM KOŞULLARI VE SORUMLULUK HÜKÜMLERİ
+
+## ÖNEMLİ BİLGİLENDİRME
+
+Jet File Transfer GKS yazılımını ("Yazılım") yüklemeden, kurmadan, kopyalamadan veya kullanmadan önce bu Son Kullanıcı Lisans Sözleşmesi'ni ("Sözleşme") dikkatlice okuyunuz.
+
+Yazılımın kurulması veya kullanılması, bu Sözleşme'nin yürürlükteki emredici hukuk kurallarına aykırı olmayan hükümlerinin kabul edildiği anlamına gelir.
+
+Bu Sözleşme'nin herhangi bir hükmünü kabul etmiyorsanız Yazılımı kurmayınız veya kullanmayınız ve cihazınızdan kaldırınız.
+
+Bu Sözleşme, tüketicilere ve diğer kullanıcılara kanunlarla tanınan ve önceden bertaraf edilmesi mümkün olmayan hakları ortadan kaldırmaz veya sınırlandırmaz.
+
+# 1. TARAFLAR VE YAZILIM
+
+**1.1.** Jet File Transfer GKS ("Yazılım"), işbu Sözleşme kapsamında "Geliştirici" olarak anılan bağımsız yazılım geliştiricisi/ekibi tarafından sunulan ve dağıtılan bir yazılımdır.
+
+**1.2.** Bu Sözleşmede;
+
+* **"Geliştirici":** GKS Yazılım Ekibi,
+* **"Yazılım":** Jet File Transfer GKS'nin Android, Windows ve/veya desteklenen diğer sürümleri ile bunlara ilişkin güncellemeleri,
+* **"Kullanıcı":** Yazılımı indiren, kuran veya kullanan gerçek veya tüzel kişiyi,
+* **"Cihaz":** Yazılımın kurulduğu bilgisayar, Android cihaz, akıllı tahta veya desteklenen diğer cihazları
+
+ifade eder.
+
+**1.3.** Yazılım, aksi ayrıca belirtilmediği sürece ücretsiz olarak sunulmaktadır. Yazılımın ücretsiz olması, Kullanıcıya Yazılım üzerindeki fikrî ve sınai hakların devredildiği anlamına gelmez.
+
+# 2. LİSANSIN VERİLMESİ
+
+**2.1.** Geliştirici, Kullanıcıya Yazılımı bu Sözleşme kapsamında kullanmak üzere kişisel, sınırlı, münhasır olmayan, devredilemez ve süreli olmayan bir kullanım lisansı vermektedir.
+
+**2.2.** Bu lisans, Yazılımın mülkiyetini veya fikrî ve sınai haklarını Kullanıcıya devretmez.
+
+**2.3.** Kullanıcı, Yazılımı yasal amaçlarla ve bu Sözleşmeye uygun şekilde kullanabilir.
+
+**2.4.** Yazılımın birden fazla cihazda kullanılması, ilgili cihazların Kullanıcıya ait olması veya Kullanıcının bu cihazları kullanmaya yetkili olması şartıyla mümkündür.
+
+# 3. FİKRÎ VE SINAÎ MÜLKİYET HAKLARI
+
+**3.1.** Yazılımın kaynak kodları, nesne kodları, tasarımı, arayüzü, grafik unsurları, logoları, metinleri, teknik yapısı ve Yazılıma ilişkin diğer unsurlar üzerindeki haklar, ilgili mevzuat uyarınca Geliştiriciye veya ilgili hak sahiplerine aittir.
+
+**3.2.** Bu Sözleşme, Kullanıcıya Yazılımın fikrî veya sınai mülkiyet haklarını devretmez.
+
+**3.3.** Kullanıcı, yürürlükteki mevzuatın izin verdiği zorunlu haller dışında Yazılımı;
+
+* kopyalayamaz,
+* kaynak koda dönüştüremez,
+* tersine mühendislik yapamaz,
+* kaynak kodunu elde etmeye çalışamaz,
+* değiştiremez,
+* uyarlayamaz,
+* türev yazılım oluşturamaz,
+* kiralayamaz,
+* satamaz,
+* lisanslayamaz,
+* yeniden dağıtamaz.
+
+**3.4.** Kanun tarafından açıkça izin verilen kullanım ve işlemler bu hükmün dışındadır.
+
+**3.5.** Yazılım üzerindeki telif ve hak sahipliği bildirimleri kaldırılamaz veya değiştirilemez.
+
+# 4. YAZILIMIN KULLANIM AMACI
+
+**4.1.** Jet File Transfer GKS, insanların bilgisayar, Android cihaz, akıllı tahta ve desteklenen diğer cihazlar arasında ekran paylaşımı ve cihazlar arası iletişimi kolay, pratik ve erişilebilir şekilde gerçekleştirebilmesi amacıyla geliştirilmiştir. Yazılımın temel amacı; eğitim, öğretim, sunum, teknik destek, uzaktan yardım, iş birliği, kişisel kullanım ve benzeri hukuka uygun ve iyi niyetli amaçlarla ekran, ses ve dosya paylaşımını kolaylaştırmaktır.
+
+**4.2.** Jet File Transfer GKS, kişilerin birbirlerinin ekranlarını, seslerini veya dosyalarını izinsiz olarak takip etmesi, elde etmesi, kaydetmesi veya başka amaçlarla kullanması için geliştirilmemiştir. Yazılımın amacı, yetkili kullanıcılar arasında gerçekleştirilen meşru ve izinli cihazlar arası paylaşımı kolaylaştırmaktır.
+
+**4.3.** Kullanıcı, Yazılımı yalnızca hukuka uygun amaçlarla ve gerekli izinleri alarak kullanacağını kabul eder.
+
+**4.4.** Kullanıcı özellikle;
+
+* başka kişilerin cihazlarına izinsiz erişemez,
+* başka kişilerin ekranlarını veya verilerini izinsiz görüntüleyemez,
+* başka kişilerin seslerini veya görüntülerini hukuka aykırı şekilde kaydedemez,
+* başka kişilere ait dosyaları izinsiz alamaz, kopyalayamaz veya aktaramaz,
+* kişisel verileri hukuka aykırı şekilde toplayamaz, kaydedemez veya paylaşamaz,
+* Yazılımı başka bir bilişim sistemine yetkisiz erişim amacıyla kullanamaz,
+* Yazılımı bir saldırı, kötü amaçlı yazılım, yetkisiz izleme veya veri ele geçirme aracı olarak kullanamaz.
+
+**4.5.** Kullanıcı, Yazılım aracılığıyla gerçekleştirdiği işlemlerden ve bu işlemlerin hukuka uygunluğundan kendisi sorumludur.
+
+**4.6.** Özellikle ekran, kamera, mikrofon, ses veya dosya aktarımı sırasında üçüncü kişilere ait içeriklerin kullanılması halinde gerekli izinlerin alınması Kullanıcının sorumluluğundadır.
+
+**4.7.** Yazılımın bir okul, eğitim kurumu, kamu kurumu, işletme veya başka bir kuruluşa ait bilgisayar, akıllı tahta ya da başka bir cihaza kurulmuş olması; bu cihaz üzerinden gerçekleştirilen işlemlerin, paylaşılan içeriklerin veya kullanıcıların eylemlerinin Geliştirici tarafından gerçekleştirildiği, yönlendirildiği, onaylandığı veya bilindiği anlamına gelmez.
+
+**4.8.** Yazılım aracılığıyla bir bilgisayarın, akıllı tahtanın veya başka bir cihazın ekranına yansıtılan, gönderilen, görüntülenen, aktarılan veya paylaşılan içeriklerin niteliği ve hukuka uygunluğu, ilgili içeriği paylaşan, gönderen veya görüntüleyen Kullanıcının sorumluluğundadır.
+
+**4.9.** Yazılımın teknik olarak belirli bir içeriğin başka bir cihazın ekranında görüntülenmesine veya aktarılmasına imkân sağlaması, Geliştiricinin söz konusu içeriği hazırladığı, seçtiği, gönderdiği, onayladığı veya içeriğin hukuka uygunluğunu garanti ettiği anlamına gelmez.
+
+**4.10.** Kullanıcının Yazılımı kullanarak başka bir cihazın ekranına yansıttığı içeriklerden doğabilecek hukuki, idari veya cezai sorumluluk, yürürlükteki mevzuat çerçevesinde ilgili eylemi gerçekleştiren veya içeriği paylaşan kişiye aittir. Bu hüküm, Geliştiricinin kanunen bertaraf edilmesi mümkün olmayan sorumluluklarını ortadan kaldıracak şekilde yorumlanamaz.
+
+# 5. YETKİLİ ERİŞİM VE RIZA
+
+**5.1.** Kullanıcı, Yazılımı yalnızca erişim hakkına sahip olduğu cihazlarda ve sistemlerde kullanacağını kabul eder.
+
+**5.2.** Başka bir kişinin cihazına, ekranına, mikrofonuna, kamerasına, dosyalarına veya iletişimlerine erişim sağlanması gerekiyorsa, Kullanıcı gerekli hukuki izin ve rızaların alınmasından sorumludur.
+
+**5.3.** Bir kişinin cihazına Yazılımın kurulmuş olması, o kişinin bütün verilerine erişim veya bu verileri işleme konusunda otomatik olarak sınırsız bir izin verildiği anlamına gelmez.
+
+**5.4.** Kullanıcı, erişim yetkisinin kapsamını ve süresini kendisi belirlemeli ve gerektiğinde erişimi sonlandırmalıdır.
+
+**5.5.** Bir akıllı tahta veya başka bir ortak kullanım cihazına Yazılımın kurulmuş olması, cihazı kullanan veya cihaza erişen bütün kişilere sınırsız içerik paylaşma veya erişim yetkisi verildiği anlamına gelmez.
+
+# 6. EKRAN, SES VE DOSYA AKTARIMI
+
+**6.1.** Yazılımın ekran yansıtma, ekran görüntüsü aktarımı, ses aktarımı veya dosya paylaşımı özellikleri yalnızca Kullanıcının yetkili olduğu kullanım senaryolarında kullanılmalıdır.
+
+**6.2.** Kullanıcı, aktarım sırasında üçüncü kişilere ait kişisel verilerin, özel hayat bilgilerinin, ticari sırların, eğitim/işyeri bilgilerinin veya diğer gizli bilgilerin aktarılabileceğinin farkındadır.
+
+**6.3.** Kullanıcı, bu tür içeriklerin hukuka uygun şekilde aktarılmasından, muhafaza edilmesinden ve gerektiğinde silinmesinden sorumludur.
+
+**6.4.** Geliştirici, Kullanıcının başka kişilere ait içerikleri hukuka aykırı şekilde elde etmesine, kaydetmesine veya paylaşmasına izin vermemektedir.
+
+**6.5.** Yazılımın teknik olarak bir veriyi aktarabilmesi, söz konusu verinin hukuken aktarılabileceği anlamına gelmez.
+
+**6.6.** Ekran yansıtma özelliğinin kullanıldığı cihazlarda, ekrana yansıtılan veya görüntülenen içeriğin seçilmesi ve gönderilmesi Kullanıcının gerçekleştirdiği bir işlemdir. Geliştirici, Kullanıcı tarafından seçilen veya gönderilen içeriğin içeriğinden bağımsız olarak sorumlu tutulamaz; ancak kanunen kendisine yüklenen ve önceden sınırlandırılması mümkün olmayan sorumluluklar saklıdır.
+
+# 7. KİŞİSEL VERİLER VE KVKK
+
+**7.1.** Yazılımın belirli işlevleri cihaz adı, IP adresi, ağ bilgileri, dosya bilgileri, ekran görüntüsü, ses, bağlantı bilgileri veya benzeri verilerin cihazlar arasında aktarılmasına neden olabilir.
+
+**7.2.** Geliştiricinin hangi kişisel verileri topladığı, hangi amaçlarla işlediği, hukuki sebepleri, aktarım yapılan kişi veya kuruluşlar, saklama süreleri ve ilgili kişilerin hakları ayrıca Jet File Transfer GKS Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni / Gizlilik Politikası içerisinde açıklanır.
+
+**7.3.** Geliştirici tarafından kişisel veri işlenmesi söz konusu olduğunda, 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili ikincil mevzuat uygulanır.
+
+**7.4.** Kullanıcının cihazında yalnızca yerel olarak gerçekleşen ve Geliştiriciye aktarılmayan veri işlemleri bakımından, ilgili veri işleme faaliyetinin niteliğine göre Kullanıcının kendi hukuki sorumluluğu doğabilir.
+
+**7.5.** Kullanıcı, Yazılım aracılığıyla başka kişilere ait kişisel verileri elde etmesi veya işlemesi halinde, kendisi açısından uygulanabilir KVKK ve diğer mevzuat hükümlerine uymakla yükümlüdür.
+
+**7.6.** Geliştirici tarafından kişisel veri işleniyorsa, gerekli aydınlatma yükümlülüğü ayrıca yerine getirilir.
+
+**7.7.** Aydınlatma Metni ile açık rıza birbirinden ayrı hukuki süreçlerdir. Gerektiğinde açık rıza ayrıca ve belirli bir işleme faaliyetine yönelik olarak alınır.
+
+# 8. ANDROID İZİNLERİ
+
+**8.1.** Android sürümünde Yazılımın belirli özelliklerinin kullanılabilmesi için işletim sistemi tarafından kamera, mikrofon, dosyalar/medya, ağ veya benzeri izinler talep edilebilir
+# 9. Wi-fi Kullanımı : Ekran ve ses yansıtmalarında, kendi cihazınızın mobil verisini kapatarak sunucuya bağlanan cihazın Wi-Fi (Hotspot) özelliğini kullanarak veri paylaşımını gerçekleştirmeniz gerekmektedir.
+
+
+
+Sözleşme güncellemeleri bu site üzerinden yayınlanır. Değişiklere lütfen bakarak onaylayınız :https://github.com/gksyazilim02/tmp/blob/main/jetfiletransfergks.txt
