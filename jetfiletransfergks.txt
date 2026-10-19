@@ -1,8 +1,8 @@
-# Jet File Transfer GKS SON KULLANICI LİSANS SÖZLEŞMESİ, KULLANIM KOŞULLARI VE SORUMLULUK HÜKÜMLERİ
+# Jet File Transfer  SON KULLANICI LİSANS SÖZLEŞMESİ, KULLANIM KOŞULLARI VE SORUMLULUK HÜKÜMLERİ
 
 ## ÖNEMLİ BİLGİLENDİRME
 
-Jet File Transfer GKS yazılımını ("Yazılım") yüklemeden, kurmadan, kopyalamadan veya kullanmadan önce bu Son Kullanıcı Lisans Sözleşmesi'ni ("Sözleşme") dikkatlice okuyunuz.
+Jet File Transfer  yazılımını ("Yazılım") yüklemeden, kurmadan, kopyalamadan veya kullanmadan önce bu Son Kullanıcı Lisans Sözleşmesi'ni ("Sözleşme") dikkatlice okuyunuz.
 
 Yazılımın kurulması veya kullanılması, bu Sözleşme'nin yürürlükteki emredici hukuk kurallarına aykırı olmayan hükümlerinin kabul edildiği anlamına gelir.
 
@@ -12,12 +12,12 @@ Bu Sözleşme, tüketicilere ve diğer kullanıcılara kanunlarla tanınan ve ö
 
 # 1. TARAFLAR VE YAZILIM
 
-**1.1.** Jet File Transfer GKS ("Yazılım"), işbu Sözleşme kapsamında "Geliştirici" olarak anılan bağımsız yazılım geliştiricisi/ekibi tarafından sunulan ve dağıtılan bir yazılımdır.
+**1.1.** Jet File Transfer  ("Yazılım"), işbu Sözleşme kapsamında "Geliştirici" olarak anılan bağımsız yazılım geliştiricisi/ekibi tarafından sunulan ve dağıtılan bir yazılımdır.
 
 **1.2.** Bu Sözleşmede;
 
-* **"Geliştirici":** GKS Yazılım Ekibi,
-* **"Yazılım":** Jet File Transfer GKS'nin Android, Windows ve/veya desteklenen diğer sürümleri ile bunlara ilişkin güncellemeleri,
+* **"Geliştirici":**  Yazılım Ekibi,
+* **"Yazılım":** Jet File Transfer 'nin Android, Windows ve/veya desteklenen diğer sürümleri ile bunlara ilişkin güncellemeleri,
 * **"Kullanıcı":** Yazılımı indiren, kuran veya kullanan gerçek veya tüzel kişiyi,
 * **"Cihaz":** Yazılımın kurulduğu bilgisayar, Android cihaz, akıllı tahta veya desteklenen diğer cihazları
 
@@ -61,9 +61,9 @@ ifade eder.
 
 # 4. YAZILIMIN KULLANIM AMACI
 
-**4.1.** Jet File Transfer GKS, insanların bilgisayar, Android cihaz, akıllı tahta ve desteklenen diğer cihazlar arasında ekran paylaşımı ve cihazlar arası iletişimi kolay, pratik ve erişilebilir şekilde gerçekleştirebilmesi amacıyla geliştirilmiştir. Yazılımın temel amacı; eğitim, öğretim, sunum, teknik destek, uzaktan yardım, iş birliği, kişisel kullanım ve benzeri hukuka uygun ve iyi niyetli amaçlarla ekran, ses ve dosya paylaşımını kolaylaştırmaktır.
+**4.1.** Jet File Transfer , insanların bilgisayar, Android cihaz, akıllı tahta ve desteklenen diğer cihazlar arasında ekran paylaşımı ve cihazlar arası iletişimi kolay, pratik ve erişilebilir şekilde gerçekleştirebilmesi amacıyla geliştirilmiştir. Yazılımın temel amacı; eğitim, öğretim, sunum, teknik destek, uzaktan yardım, iş birliği, kişisel kullanım ve benzeri hukuka uygun ve iyi niyetli amaçlarla ekran, ses ve dosya paylaşımını kolaylaştırmaktır.
 
-**4.2.** Jet File Transfer GKS, kişilerin birbirlerinin ekranlarını, seslerini veya dosyalarını izinsiz olarak takip etmesi, elde etmesi, kaydetmesi veya başka amaçlarla kullanması için geliştirilmemiştir. Yazılımın amacı, yetkili kullanıcılar arasında gerçekleştirilen meşru ve izinli cihazlar arası paylaşımı kolaylaştırmaktır.
+**4.2.** Jet File Transfer , kişilerin birbirlerinin ekranlarını, seslerini veya dosyalarını izinsiz olarak takip etmesi, elde etmesi, kaydetmesi veya başka amaçlarla kullanması için geliştirilmemiştir. Yazılımın amacı, yetkili kullanıcılar arasında gerçekleştirilen meşru ve izinli cihazlar arası paylaşımı kolaylaştırmaktır.
 
 **4.3.** Kullanıcı, Yazılımı yalnızca hukuka uygun amaçlarla ve gerekli izinleri alarak kullanacağını kabul eder.
 
@@ -119,7 +119,7 @@ ifade eder.
 
 **7.1.** Yazılımın belirli işlevleri cihaz adı, IP adresi, ağ bilgileri, dosya bilgileri, ekran görüntüsü, ses, bağlantı bilgileri veya benzeri verilerin cihazlar arasında aktarılmasına neden olabilir.
 
-**7.2.** Geliştiricinin hangi kişisel verileri topladığı, hangi amaçlarla işlediği, hukuki sebepleri, aktarım yapılan kişi veya kuruluşlar, saklama süreleri ve ilgili kişilerin hakları ayrıca Jet File Transfer GKS Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni / Gizlilik Politikası içerisinde açıklanır.
+**7.2.** Geliştiricinin hangi kişisel verileri topladığı, hangi amaçlarla işlediği, hukuki sebepleri, aktarım yapılan kişi veya kuruluşlar, saklama süreleri ve ilgili kişilerin hakları ayrıca Jet File Transfer  Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni / Gizlilik Politikası içerisinde açıklanır.
 
 **7.3.** Geliştirici tarafından kişisel veri işlenmesi söz konusu olduğunda, 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili ikincil mevzuat uygulanır.
 
@@ -138,4 +138,4 @@ ifade eder.
 
 
 
-Sözleşme güncellemeleri bu site üzerinden yayınlanır. Değişiklere lütfen bakarak onaylayınız :https://github.com/gksyazilim02/tmp/blob/main/jetfiletransfergks.txt
+Sözleşme güncellemeleri bu site üzerinden yayınlanır. Değişiklere lütfen bakarak onaylayınız :https://github.com/yazilim02/tmp/blob/main/jetfiletransfer.txt
